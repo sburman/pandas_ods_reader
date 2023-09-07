@@ -33,3 +33,5 @@ venv/
 
 # mypy
 .mypy_cache/
+
+.python-version
